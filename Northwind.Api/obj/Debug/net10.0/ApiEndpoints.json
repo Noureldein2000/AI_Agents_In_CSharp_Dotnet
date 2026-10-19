@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Northwind.Api.Controllers.SupportController",
+    "Method": "Chat",
+    "RelativePath": "api/support/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Northwind.Api.Controllers.SupportController",
+    "Method": "ExecuteFlow",
+    "RelativePath": "api/support/ExecuteFlow",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requirements",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

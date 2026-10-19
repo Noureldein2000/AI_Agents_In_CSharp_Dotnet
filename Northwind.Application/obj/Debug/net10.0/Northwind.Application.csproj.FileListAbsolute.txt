@@ -1,0 +1,15 @@
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\bin\Debug\net10.0\Northwind.Application.deps.json
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\bin\Debug\net10.0\Northwind.Application.dll
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\bin\Debug\net10.0\Northwind.Application.pdb
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\bin\Debug\net10.0\Northwind.Domain.dll
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\bin\Debug\net10.0\Northwind.Domain.pdb
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\obj\Debug\net10.0\Northwind.Application.csproj.AssemblyReference.cache
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\obj\Debug\net10.0\Northwind.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\obj\Debug\net10.0\Northwind.Application.AssemblyInfoInputs.cache
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\obj\Debug\net10.0\Northwind.Application.AssemblyInfo.cs
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\obj\Debug\net10.0\Northwind.Application.csproj.CoreCompileInputs.cache
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\obj\Debug\net10.0\Northwin.7F784AC1.Up2Date
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\obj\Debug\net10.0\Northwind.Application.dll
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\obj\Debug\net10.0\refint\Northwind.Application.dll
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\obj\Debug\net10.0\Northwind.Application.pdb
+C:\Users\user-pc1\Downloads\AI_Agents_In_CSharp_Dotnet-main\AI_Agents_In_CSharp_Dotnet-main\Northwind.Application\obj\Debug\net10.0\ref\Northwind.Application.dll
